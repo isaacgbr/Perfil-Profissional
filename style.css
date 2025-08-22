@@ -1,0 +1,55 @@
+/* Estilo geral da página */
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #031a30;
+  margin: 0;
+  padding: 1;
+  line-height: 1;
+}
+
+/* Cabeçalho */
+header {
+  background-color: #256e9c;
+  color: #fffbfb;
+  text-align: center;
+  padding: 12px;
+}
+
+/* Título principal */
+h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+/* Imagem de perfil */
+img {
+  border-radius: 40%;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Seções */
+section {
+  padding: 15px;
+  margin: 10px auto;
+  max-width: 650px;
+  background-color: #ccc8c8;
+  border-radius: 15px;
+}
+
+/* Listas */
+ul {
+  list-style-type: style type none;;
+  padding: 5;
+}
+li {
+  margin: 9px 0;
+}
+
+/* Rodapé */
+footer {
+  background-color: #256e9c;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
+}
